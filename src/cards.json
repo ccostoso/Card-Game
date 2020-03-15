@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "img-src": "/assets/img/",
+        "text": "sample"
+    },
+    {
+        "id": 2,
+        "img-src": "/assets/img/",
+        "text": "sample"
+    },
+    {
+        "id": 3,
+        "img-src": "/assets/img/",
+        "text": "sample"
+    },
+    {
+        "id": 4,
+        "img-src": "/assets/img/",
+        "text": "sample"
+    },
+    {
+        "id": 5,
+        "img-src": "/assets/img/",
+        "text": "sample"
+    }
+]
