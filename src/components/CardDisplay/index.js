@@ -28,7 +28,20 @@ class CardDisplay extends React.Component {
                 clickedArr: tempArr
             });
         };
+
+        // const shuffledCards = this.shuffleCards()
     }
+
+    // shuffleCards(cards) {
+    //     for (let i = cards.length; i > 0; i--)  {
+    //         const j = Math.floor(Math.random() * (i + 1));
+    //         const temp = cards[i];
+    //         cards[i] = cards[j];
+    //         cards[j] = temp;
+    //     }
+
+    //     return cards;
+    // }
 
     render() {
         return (
