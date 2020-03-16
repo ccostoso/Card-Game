@@ -17,9 +17,12 @@ class CardDisplay extends React.Component {
 
     render() {
         return (
-            <section className="card-columns">
-                {cards.map(card => <Card src={card.src} name={card.name} key={card.id} handleClick={this.handleClick}/>)}
-            </section>
+            <div>
+                {this.state.score}
+                <section className="row">
+                    {cards.map(card => <Card src={card.src} name={card.name} key={card.id} handleClick={this.handleClick}/>)}
+                </section>
+            </div>
         )
     }
 }

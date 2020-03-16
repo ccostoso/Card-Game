@@ -1,27 +1,82 @@
 [
     {
         "id": 1,
-        "src": "/assets/img/",
+        "src": "/assets/img/001-bulbasaur.png",
         "text": "sample"
     },
     {
         "id": 2,
-        "src": "/assets/img/",
+        "src": "/assets/img/002-charmander.png",
         "text": "sample"
     },
     {
         "id": 3,
-        "src": "/assets/img/",
+        "src": "/assets/img/003-squirtle.png",
         "text": "sample"
     },
     {
         "id": 4,
-        "src": "/assets/img/",
+        "src": "/assets/img/025-pikachu.png",
         "text": "sample"
     },
     {
         "id": 5,
-        "src": "/assets/img/",
+        "src": "/assets/img/052-meowth.png",
+        "text": "sample"
+    },
+    {
+        "id": 6,
+        "src": "/assets/img/054-psyduck.png",
+        "text": "sample"
+    },
+    {
+        "id": 7,
+        "src": "/assets/img/066-machop.png",
+        "text": "sample"
+    },
+    {
+        "id": 8,
+        "src": "/assets/img/104-cubone.png",
+        "text": "sample"
+    },
+    {
+        "id": 9,
+        "src": "/assets/img/133-eevee.png",
+        "text": "sample"
+    },
+    {
+        "id": 10,
+        "src": "/assets/img/152-chikorita.png",
+        "text": "sample"
+    },
+    {
+        "id": 11,
+        "src": "/assets/img/155-cyndaquil.png",
+        "text": "sample"
+    },
+    {
+        "id": 12,
+        "src": "/assets/img/158-totodile.png",
+        "text": "sample"
+    },
+    {
+        "id": 13,
+        "src": "/assets/img/252-treecko.png",
+        "text": "sample"
+    },
+    {
+        "id": 14,
+        "src": "/assets/img/255-torchic.png",
+        "text": "sample"
+    },
+    {
+        "id": 15,
+        "src": "/assets/img/258-mudkip.png",
+        "text": "sample"
+    },
+    {
+        "id": 7,
+        "src": "/assets/img/300-skitty.png",
         "text": "sample"
     }
 ]
