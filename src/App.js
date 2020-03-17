@@ -1,13 +1,12 @@
 import React from 'react';
 import './App.css';
-import CardDisplay from './components/CardDisplay'
+import GameDisplay from './components/GameDisplay'
 
 
 function App() {
   return (
     <main className="container">
-      <h1>HellO!</h1>
-      <CardDisplay />
+      <GameDisplay />
     </main>
   );
 }
