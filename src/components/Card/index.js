@@ -3,12 +3,13 @@ import './style.css';
 
 const Card = props => {
     return (
-        <section className="col-3 m-0">
+        <section className="col-3">
             <article className="card my-1 mx-auto" onClick={props.handleClick}>
                 <img 
                     src={props.src} 
-                    className="card-img-top" 
-                    alt={props.name} data-key={props.id}/>
+                    className="card-img-top"
+                    data-id={props.id} 
+                    alt={props.name}/>
                 {/* <div className="card-body">{props.text}</div> */}
             </article>
         </section>
