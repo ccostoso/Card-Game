@@ -1,4 +1,9 @@
 .card {
     max-width: 100px;
+    border: 0;
     /* background-color: red; */
+}
+
+.card:hover {
+    transform: scale(1.1);
 }

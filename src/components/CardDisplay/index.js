@@ -4,7 +4,7 @@ import Card from '../Card';
 
 const CardDisplay = props => {
     return (
-        <section className="row">
+        <section className="row mx-0">
             {props.cardsArr.map(card => <Card
                 src={card.src}
                 name={card.name}
